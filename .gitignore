@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+generated/*.json
+generated/*.txt
+data/topic_history.json
+logs/*.log

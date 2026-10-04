@@ -1,0 +1,17 @@
+WINDOWS TASK SCHEDULER
+
+1. Open Windows Task Scheduler.
+2. Create Basic Task.
+3. Name: Hermes Instagram Daily.
+4. Trigger: Daily.
+5. Pick a time, e.g. 09:00.
+6. Action: Start a program.
+7. Program:
+   C:\PATH\TO\hermes_instagram_daily\.venv\Scripts\python.exe
+8. Arguments:
+   run_daily.py
+9. Start in:
+   C:\PATH\TO\hermes_instagram_daily
+10. Save and test using Run.
+
+Start with DRY_RUN=true.

@@ -1,0 +1,51 @@
+BUSINESS
+========
+Business name: YOUR_EDTECH_NAME
+
+Offer:
+AI / Data Engineering / Generative AI / Agentic AI training.
+
+TARGET AUDIENCE
+===============
+- Technology professionals
+- Data engineers
+- Data analysts
+- Software engineers
+- Professionals with 3+ years of experience
+- People moving into AI/Data Engineering roles
+
+CONTENT PILLARS
+===============
+1. Generative AI
+2. Agentic AI
+3. Data Engineering
+4. AI Engineering
+5. MCP
+6. RAG
+7. Python
+8. Databricks
+9. Cloud
+10. Career transformation
+11. Practical projects
+12. Interview preparation
+
+VOICE
+=====
+Practical, expert, educational and easy to understand.
+Use strong hooks and short readable paragraphs.
+Avoid generic AI marketing language and excessive emojis.
+
+CTA
+===
+Examples:
+- Save this post
+- Follow for practical AI/Data Engineering content
+- Comment "AI" for more details
+- DM for course information
+
+RULES
+=====
+- Never invent student numbers, placement claims, salary claims, certifications,
+  partnerships or client names.
+- Avoid repeating recent topics.
+- Prefer actionable content over generic motivation.
